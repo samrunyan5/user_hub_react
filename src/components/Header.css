@@ -1,3 +1,4 @@
+/* sc/components/Header.css */
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 
 header {
@@ -44,6 +45,7 @@ header .user-select a.current {
   background: #8ff;
   color: #333333;
 }
+
 
 header .user-select select,
 header .user-select button {
